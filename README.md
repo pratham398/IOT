@@ -180,7 +180,7 @@ Future enhancements of the system may include:
 
 ## 👨‍💻 Author
 
-**Pratham Rana**
+**Pratham**
 B.Tech – Computer Science & Engineering
 Graphic Era Hill University, Dehradun
 
